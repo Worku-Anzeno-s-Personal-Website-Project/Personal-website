@@ -1,0 +1,38 @@
+@media all and {max-width: 500px;}
+
+    
+}
+.NAVIGATION{
+    font-size: 20px;margin: top 10px; position: 
+    relative;float: right;text-align: left;
+}
+.container{
+    background-color: rgb(164, 159, 155);
+}
+.h1lorem{
+    font-size: 35px;background-color: rgb(8, 105, 29);font-style: 
+    italic;padding: 35px;margin: left; margin-right: 
+    150px;margin-left: 
+    150px; text-align: center;display:block;
+}
+.plorem{
+    font-size: 30px;font-style: italic;text-align: left;
+}
+.h2lorem{
+    font-size: 45px;font-style: normal;text-align: center;
+        font-family: 'Tangerine', serif;
+        text-shadow: 4px 4px 4px #aaa;
+      }
+
+.about1{
+    font-size: x-large;font-family: Arial, Helvetica, sans-serif;float: left;
+}
+
+
+body{
+    background-color: rgb(212, 225, 221);
+}
+.p1{
+    margin-right: 10px;
+}
+    
