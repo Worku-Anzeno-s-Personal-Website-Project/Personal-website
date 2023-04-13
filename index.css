@@ -1,0 +1,17 @@
+
+body{border: solid;height: 1750px;
+    
+}
+.cb{
+    min-height: fit-content;max-width: 100%;
+}
+
+nav{
+    font-size:30px;color: green;text-align: right;margin-right: 10px;display: flex;
+}
+
+    @media (any-hover: hover) {
+        a:hover {
+          background: yellow;
+        }
+      }
